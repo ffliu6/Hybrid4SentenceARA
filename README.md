@@ -29,5 +29,5 @@ Obtain predicted value or probabilities
 python code/pred.py \
     ./trained_models/ose/roberta_32_1e-06_10/ \
     ./datasets/traindata/ose/ \
-    ./Pred_results/ose/>
+    ./Pred_results/ose/
 ```
